@@ -1,0 +1,4 @@
+2023-11-28 14:32:10 USB device connected: VID_1234&PID_5678
+2023-11-28 14:32:10 USB device disconnected: VID_1234&PID_5678
+2023-11-28 14:32:10 USB device connected: VID_9876&PID_5432
+2023-11-28 14:32:10 USB error: Device malfunctioned
